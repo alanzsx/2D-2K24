@@ -50,5 +50,10 @@ body{
 }
 
 .Estudante-imagem{
-    width: 15%;
+    width: 120px;
+}
+
+.Estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
 }
